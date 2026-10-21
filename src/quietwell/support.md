@@ -12,7 +12,7 @@ Make sure the sound is playing in Quietwell before you lock the phone, and that 
 Tap the timer button, pick 15 minutes to 8 hours (or play all night) and tap Start Timer. When the timer ends, the sound fades out slowly so it doesn't stop all at once.
 
 ### What does the free version include?
-Five sounds (white, pink and brown noise, fan and rain) with tone and intensity controls, plus the sleep timer. There's no time limit, no ads and no account. Quietwell Pro adds mixing (layer up to four sounds), more generated sounds (ocean, thunder, green noise and a low hum), saved mixes and a wake-up fade. Pro is available as Monthly ($2.99) or Yearly ($12.99) auto-renewing subscriptions, or Lifetime ($19.99, one time). These are US prices. Your local price is shown in the app before you buy. There's no weekly plan.
+Five sounds (white, pink and brown noise, fan and rain) with tone and intensity controls, plus the sleep timer. There's no time limit, no ads and no account. Quietwell Pro adds mixing (layer up to four sounds), more generated sounds (ocean, thunder, green noise and a low hum) and saved mixes. When the sleep timer ends, the sound fades out and stops. Pro is available as Monthly ($2.99) or Yearly ($12.99) auto-renewing subscriptions, or Lifetime ($19.99, one time). These are US prices. Your local price is shown in the app before you buy. There's no weekly plan.
 
 ### How do I restore my purchase on a new phone?
 Sign in with the same Apple Account you used to buy Quietwell Pro, open Quietwell, go to Settings (or the Quietwell Pro screen) and tap **Restore Purchases**.
