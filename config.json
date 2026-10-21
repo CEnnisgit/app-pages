@@ -1,0 +1,5 @@
+{
+  "SELLER": "Nimbus Web Design LLC",
+  "EMAIL": "apps@nimbuswebdesign.com",
+  "_note": "SELLER is a PLACEHOLDER until the rebrand. Edit here, run `python3 build.py`, commit the regenerated apps/ folder."
+}
